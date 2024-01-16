@@ -1,0 +1,5 @@
+January 16, 2024 (Tuesday)
+First Commit:
+• Boilerplate
+• globals.css
+    - set height to 100%
