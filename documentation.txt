@@ -3,3 +3,14 @@ First Commit:
 • Boilerplate
 • globals.css
     - set height to 100%
+
+Second Commit:
+• Setup Clerk for Authentication
+• App
+    |_ (auth)
+    |_ (dashboard)
+    |_ (root)
+
+• Installed PRISMA
+• Imported components from Shadcn
+    - dialog
